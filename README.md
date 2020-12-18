@@ -22,8 +22,6 @@ $ npm install {packge name} --save
 ...
 ...
 
-$ npm i http-status-codes --save-dev
-
 # main file の実行
 $ node main.js
 ```
