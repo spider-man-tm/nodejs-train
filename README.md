@@ -8,26 +8,6 @@ Repo Title: 『入門 Node.jsプログラミング』の練習問題を解いて
 
 <br>
 
-## Usage
-- このレポはJavaScriptのコードと基本となる'package.json'しか共有していません。
-- 各ディレクトリ（プロジェクト）に移動後、以下のコマンドを叩いてappの初期化を行ってください。
-
-```
-# Node.jsアプリの初期化
-$ npm init
-
-# 必要なパッケージのインストール
-# 尚、追加で必要なパッケージがある場合、各ディレクトリ配下にその旨を記載してます。
-$ npm install {packge name} --save
-...
-...
-
-# main file の実行
-$ node main.js
-```
-
-<br>
-
 ## 内容
 
 | lesson | 課題内容 |
