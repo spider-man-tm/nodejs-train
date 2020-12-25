@@ -1,3 +1,8 @@
+### レッスン内容
+- EJSを利用したテンプレートエンジンの操作
+
+<br>
+
 ### 課題内容
 - Contact Page(http://localhost:3000/contact)ページの作成
 - 上記ページは`views/layout.ejs(テンプレートエンジン)`を利用する
