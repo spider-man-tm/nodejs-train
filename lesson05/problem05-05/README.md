@@ -13,8 +13,6 @@
 ### Usage
 
 ```
-$ npm init
-$ npm i http-status-codes --save-dev
-# 下記コマンド後にlocalhost:3000にアクセス
+$ npm install
 $ node main.js
 ```

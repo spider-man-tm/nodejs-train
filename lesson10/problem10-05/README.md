@@ -13,10 +13,7 @@
 
 ### Usage
 ```
-$ npm init
-$ npm install express@4.16.3 --save
-$ npm install ejs --save
-$ npm install express-ejs-layouts --save
+$ npm install
 $ node main.js
 ```
 
